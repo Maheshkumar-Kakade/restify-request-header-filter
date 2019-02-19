@@ -1,0 +1,27 @@
+{
+  "name": "restify-request-header-filter",
+  "version": "0.0.1",
+  "description": "Restify Request Header Filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maheshkumar-Kakade/restify-request-header-filter.git"
+  },
+  "keywords": [
+    "restify",
+    "header",
+    "filter"
+  ],
+  "author": "maheshkumar Kakade <maheshkumarkakade@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maheshkumar-Kakade/restify-request-header-filter/issues"
+  },
+  "homepage": "https://github.com/Maheshkumar-Kakade/restify-request-header-filter#readme",
+  "devDependencies": {
+    "restify": "^7.7.0"
+  }
+}
